@@ -5,3 +5,5 @@
 */khafile.js
 *.pyc
 *.DS_Store
+node_update_failure.*
+_themes.json
