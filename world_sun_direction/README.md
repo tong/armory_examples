@@ -1,0 +1,3 @@
+- Hosek / Wilkie Sky Texture synchronized with light direction
+- Rotate sun direction with R/T, F/G, V/B keys
+- See Scene - Armory Traits - MyTrait script
