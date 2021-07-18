@@ -8,4 +8,4 @@ Drag ragdoll with mouse, legs and arms are destructible.
 4. Attach bones to hitboxes using bone constraints - type 'Child Of'.  
 5. Press 'Clear Inverse' and 'Set Inverse' once target is set.
 
-See: <https://youtu.be/GaZAI8RIq0Q>
+<https://youtu.be/GaZAI8RIq0Q>

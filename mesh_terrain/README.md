@@ -6,5 +6,4 @@ To generate terrain:
 - Click `Generate`
 - Adjust terrain material
 
-Check terrain template at:
-    https://github.com/armory3d/armory_templates
+Check terrain template: <https://github.com/tong/armory_templates/tree/master/third_person_terrain>

@@ -1,1 +1,1 @@
-Loads json file from `Bundled/` directory
+Loads a json file from the `Bundled/` directory.
